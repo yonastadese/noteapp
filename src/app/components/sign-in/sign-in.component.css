@@ -67,7 +67,7 @@ h3 {
 .authBlock {
   margin: 0 auto;
   max-width: 400px;
-  background: white;
+  background: rgb(216, 194, 134);
   padding: 30px 40px 10px;
   overflow: hidden;
   -webkit-box-shadow: 0 0 4px 0 rgba(0, 0, 0, .04);
@@ -151,14 +151,15 @@ input:-moz-placeholder {
 .or {
   text-align: center;
   display: block;
-  color: #a0a0a0;
-  background: white;
+  color: white;
+  background: rgb(216, 194, 134);
   position: relative;
   margin: 5px 0 0px;
 }
 
 .orInner {
-  background: white;
+  
+  background: rgb(216, 194, 134);
   display: inline-block;
   z-index: 4;
   position: relative;

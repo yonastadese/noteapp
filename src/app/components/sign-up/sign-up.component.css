@@ -64,16 +64,16 @@
     margin: 0 0 20px;
   }
   
-  .authBlock {
-    margin: 0 auto;
-    max-width: 400px;
-    background: white;
-    padding: 30px 40px 10px;
-    overflow: hidden;
-    -webkit-box-shadow: 0 0 4px 0 rgba(0, 0, 0, .04);
-    box-shadow: 0 0 10px 0 gray;
-    border-radius: 20px;
-  }
+.authBlock {
+  margin: 0 auto;
+  max-width: 400px;
+  background: rgb(216, 194, 134);
+  padding: 30px 40px 10px;
+  overflow: hidden;
+  -webkit-box-shadow: 0 0 4px 0 rgba(0, 0, 0, .04);
+  box-shadow: 0 0 10px 0 gray;
+  border-radius: 20px;
+}
   
   label {
     display: block;
@@ -92,7 +92,7 @@
     width: 100%;
     display: block;
     padding: 15px 15px 14px;
-    border: 2px solid #e7e7e7;
+    background: rgb(238, 218, 163);
     outline: none;
     font-size: 15px;
     color: #444444;
@@ -126,7 +126,7 @@
     font-weight: 600;
     padding: 15px 0;
     background: #15CD72;
-    color: #ffffff;
+    color: white;
     cursor: pointer;
     outline: none;
   }
@@ -151,14 +151,14 @@
   .or {
     text-align: center;
     display: block;
-    color: #a0a0a0;
-    background: white;
+    color: white;
+    background: rgb(216, 194, 134);
     position: relative;
     margin: 5px 0 0px;
   }
   
   .orInner {
-    background: white;
+    background: rgb(216, 194, 134);
     display: inline-block;
     z-index: 4;
     position: relative;
